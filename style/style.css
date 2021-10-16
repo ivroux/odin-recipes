@@ -1,0 +1,15 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    background-color: brown;
+    background-size: cover;
+}
+
+ul li {
+    color: green;
+}
